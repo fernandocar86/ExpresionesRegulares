@@ -1,0 +1,41 @@
+
+# LaTeX
+*.ps
+*.aux
+*.out
+*.blg
+*.bbl
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.inf
+*.ind
+*.lot
+*.lof
+*.log
+*.nlo
+*.nls
+*.synctex.gz
+*.toc
+*.sta
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+
