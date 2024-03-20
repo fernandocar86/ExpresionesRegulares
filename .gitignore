@@ -20,6 +20,7 @@
 *.synctex.gz
 *.toc
 *.sta
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
